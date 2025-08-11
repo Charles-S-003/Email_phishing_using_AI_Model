@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============1829736087653069380=="
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <387840.513053@example.com>
+
+--===============1829736087653069380==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============1829736087653069380==--

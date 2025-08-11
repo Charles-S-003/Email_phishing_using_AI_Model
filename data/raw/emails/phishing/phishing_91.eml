@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============1610008532162384826=="
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <769843.412981@example.com>
+
+--===============1610008532162384826==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============1610008532162384826==--

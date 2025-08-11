@@ -1,0 +1,27 @@
+_model.py
+from sklearn.ensemble import RandomForestClassifier
+import numpy as np
+
+class EnsemblePhishingDetector:
+    def __init__(self):
+        self.model = RandomForestClassifier(n_estimators=100, random_state=42)
+        
+    def predict(self, features):
+        """Make predictions on new data."""
+        # Convert features to numpy array for prediction
+        X = self._prepare_features(features)
+        return self.model.predict(X)
+    
+    def predict_proba(self, features):
+        """Get prediction probabilities."""
+        X = self._prepare_features(features)
+        return self.model.predict_proba(X)
+    
+    def _prepare_features(self, features):
+        """Convert feature dictionary to numpy array."""
+        # For demo purposes, using basic features
+        X = np.array([[
+            features.get('text_length', 0),
+            features.get('urls_count', 0)
+        ]])
+        return X

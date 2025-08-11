@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============0481064149622697233=="
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@confirm-payment.cf
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <605143.601916@example.com>
+
+--===============0481064149622697233==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============0481064149622697233==--

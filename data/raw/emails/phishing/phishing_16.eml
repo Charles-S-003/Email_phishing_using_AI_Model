@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============6365749168013241331=="
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Fri, 01 Aug 2025 09:06:36 
+Message-ID: <112539.675163@example.com>
+
+--===============6365749168013241331==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============6365749168013241331==--

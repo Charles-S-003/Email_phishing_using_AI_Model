@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============3317057849821963338=="
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <491400.821336@example.com>
+
+--===============3317057849821963338==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============3317057849821963338==--

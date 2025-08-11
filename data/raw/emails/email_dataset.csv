@@ -1,0 +1,6631 @@
+email_id,subject,sender,body,label,raw_email
+phishing_1,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============5304379212968265777==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Thu, 31 Jul 2025 09:06:36 
+Message-ID: <844606.403192@example.com>
+
+--===============5304379212968265777==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============5304379212968265777==--
+"
+phishing_2,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============8602012158822588820==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Tue, 05 Aug 2025 09:06:36 
+Message-ID: <657212.978413@example.com>
+
+--===============8602012158822588820==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============8602012158822588820==--
+"
+phishing_3,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============6425123526766511975==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <382802.973984@example.com>
+
+--===============6425123526766511975==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============6425123526766511975==--
+"
+phishing_4,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============7523763285417434421==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Thu, 24 Jul 2025 09:06:36 
+Message-ID: <242169.593768@example.com>
+
+--===============7523763285417434421==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============7523763285417434421==--
+"
+phishing_5,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============5697102137723223676==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <560083.331139@example.com>
+
+--===============5697102137723223676==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============5697102137723223676==--
+"
+phishing_6,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============8864756741445797007==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <884911.560633@example.com>
+
+--===============8864756741445797007==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============8864756741445797007==--
+"
+phishing_7,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============6114989697298599941==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Sat, 09 Aug 2025 09:06:36 
+Message-ID: <110673.378583@example.com>
+
+--===============6114989697298599941==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============6114989697298599941==--
+"
+phishing_8,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============5102345926385496649==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:36 
+Message-ID: <576813.595869@example.com>
+
+--===============5102345926385496649==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============5102345926385496649==--
+"
+phishing_9,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============2331173775214108367==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <670019.603009@example.com>
+
+--===============2331173775214108367==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============2331173775214108367==--
+"
+phishing_10,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4028478147072692374==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <849631.452021@example.com>
+
+--===============4028478147072692374==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4028478147072692374==--
+"
+phishing_11,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============8956349643619885408==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Wed, 23 Jul 2025 09:06:36 
+Message-ID: <186792.154546@example.com>
+
+--===============8956349643619885408==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============8956349643619885408==--
+"
+phishing_12,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============3317057849821963338==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <491400.821336@example.com>
+
+--===============3317057849821963338==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============3317057849821963338==--
+"
+phishing_13,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5051081407665929253==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Fri, 08 Aug 2025 09:06:36 
+Message-ID: <901649.536517@example.com>
+
+--===============5051081407665929253==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5051081407665929253==--
+"
+phishing_14,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============2243441401879456898==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <719392.495236@example.com>
+
+--===============2243441401879456898==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============2243441401879456898==--
+"
+phishing_15,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4080588560049315308==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <371679.380390@example.com>
+
+--===============4080588560049315308==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4080588560049315308==--
+"
+phishing_16,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============6365749168013241331==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Fri, 01 Aug 2025 09:06:36 
+Message-ID: <112539.675163@example.com>
+
+--===============6365749168013241331==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============6365749168013241331==--
+"
+phishing_17,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============1247348960595960783==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Wed, 06 Aug 2025 09:06:36 
+Message-ID: <143031.294198@example.com>
+
+--===============1247348960595960783==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============1247348960595960783==--
+"
+phishing_18,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============3489003098003243143==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <706986.500008@example.com>
+
+--===============3489003098003243143==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============3489003098003243143==--
+"
+phishing_19,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============5489099465389245630==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Sat, 19 Jul 2025 09:06:36 
+Message-ID: <347707.790954@example.com>
+
+--===============5489099465389245630==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============5489099465389245630==--
+"
+phishing_20,Payment Failed - Action Required,billing@confirm-payment.cf,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============5580862284637163422==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@confirm-payment.cf
+To: user@example.com
+Date: Fri, 18 Jul 2025 09:06:36 
+Message-ID: <973579.944260@example.com>
+
+--===============5580862284637163422==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============5580862284637163422==--
+"
+phishing_21,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4376835315890561908==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Thu, 31 Jul 2025 09:06:36 
+Message-ID: <998182.598942@example.com>
+
+--===============4376835315890561908==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4376835315890561908==--
+"
+phishing_22,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============6051149809524453042==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <362919.226240@example.com>
+
+--===============6051149809524453042==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============6051149809524453042==--
+"
+phishing_23,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============9117225269566686398==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:36 
+Message-ID: <582554.619268@example.com>
+
+--===============9117225269566686398==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============9117225269566686398==--
+"
+phishing_24,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============5585890792247797361==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <452140.532459@example.com>
+
+--===============5585890792247797361==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============5585890792247797361==--
+"
+phishing_25,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============8752603462480965112==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Wed, 06 Aug 2025 09:06:36 
+Message-ID: <627126.540165@example.com>
+
+--===============8752603462480965112==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============8752603462480965112==--
+"
+phishing_26,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============7772998302705884511==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Sat, 19 Jul 2025 09:06:36 
+Message-ID: <936840.326953@example.com>
+
+--===============7772998302705884511==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============7772998302705884511==--
+"
+phishing_27,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============7314809504753006624==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <750437.258975@example.com>
+
+--===============7314809504753006624==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============7314809504753006624==--
+"
+phishing_28,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============6430603515054896328==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:36 
+Message-ID: <634729.294847@example.com>
+
+--===============6430603515054896328==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============6430603515054896328==--
+"
+phishing_29,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============6303061320695026209==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <366665.310756@example.com>
+
+--===============6303061320695026209==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============6303061320695026209==--
+"
+phishing_30,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0499405051443578162==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Sat, 19 Jul 2025 09:06:36 
+Message-ID: <629011.419225@example.com>
+
+--===============0499405051443578162==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0499405051443578162==--
+"
+phishing_31,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4027130765071877228==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Thu, 24 Jul 2025 09:06:36 
+Message-ID: <229108.672495@example.com>
+
+--===============4027130765071877228==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4027130765071877228==--
+"
+phishing_32,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5021762192987173942==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:36 
+Message-ID: <781484.476514@example.com>
+
+--===============5021762192987173942==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5021762192987173942==--
+"
+phishing_33,Payment Failed - Action Required,billing@update-info.ga,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============4054336784627411566==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@update-info.ga
+To: user@example.com
+Date: Tue, 05 Aug 2025 09:06:36 
+Message-ID: <467213.435811@example.com>
+
+--===============4054336784627411566==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============4054336784627411566==--
+"
+phishing_34,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============1204186331477179608==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Wed, 23 Jul 2025 09:06:36 
+Message-ID: <798849.929663@example.com>
+
+--===============1204186331477179608==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============1204186331477179608==--
+"
+phishing_35,Congratulations! You've Won $1000,winner@update-info.ga,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============0334011009144596914==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@update-info.ga
+To: user@example.com
+Date: Mon, 21 Jul 2025 09:06:36 
+Message-ID: <953044.838871@example.com>
+
+--===============0334011009144596914==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============0334011009144596914==--
+"
+phishing_36,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============7366669014646680080==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:36 
+Message-ID: <387770.899154@example.com>
+
+--===============7366669014646680080==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============7366669014646680080==--
+"
+phishing_37,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============3589064767296376853==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:36 
+Message-ID: <524872.642194@example.com>
+
+--===============3589064767296376853==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============3589064767296376853==--
+"
+phishing_38,Payment Failed - Action Required,billing@confirm-payment.cf,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============0481064149622697233==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@confirm-payment.cf
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <605143.601916@example.com>
+
+--===============0481064149622697233==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============0481064149622697233==--
+"
+phishing_39,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============1940724085709728918==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <456521.857439@example.com>
+
+--===============1940724085709728918==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============1940724085709728918==--
+"
+phishing_40,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5203835548183264994==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:36 
+Message-ID: <765045.711564@example.com>
+
+--===============5203835548183264994==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5203835548183264994==--
+"
+phishing_41,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5643096817342528887==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:36 
+Message-ID: <510908.275332@example.com>
+
+--===============5643096817342528887==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5643096817342528887==--
+"
+phishing_42,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============7466791867943308970==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <384260.564043@example.com>
+
+--===============7466791867943308970==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============7466791867943308970==--
+"
+phishing_43,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============7298552789489367710==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:36 
+Message-ID: <907179.381878@example.com>
+
+--===============7298552789489367710==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============7298552789489367710==--
+"
+phishing_44,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============6533175558172230617==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <459468.254003@example.com>
+
+--===============6533175558172230617==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============6533175558172230617==--
+"
+phishing_45,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============3601775168012868062==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <327146.567141@example.com>
+
+--===============3601775168012868062==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============3601775168012868062==--
+"
+phishing_46,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============1829736087653069380==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <387840.513053@example.com>
+
+--===============1829736087653069380==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============1829736087653069380==--
+"
+phishing_47,Payment Failed - Action Required,billing@confirm-payment.cf,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============0176772435137583921==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@confirm-payment.cf
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <888279.637251@example.com>
+
+--===============0176772435137583921==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============0176772435137583921==--
+"
+phishing_48,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0559157326518946037==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Thu, 24 Jul 2025 09:06:36 
+Message-ID: <310705.535033@example.com>
+
+--===============0559157326518946037==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0559157326518946037==--
+"
+phishing_49,Payment Failed - Action Required,billing@update-info.ga,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============1238206582983744307==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@update-info.ga
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <469545.601874@example.com>
+
+--===============1238206582983744307==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============1238206582983744307==--
+"
+phishing_50,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============5150183809796639486==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <276097.667047@example.com>
+
+--===============5150183809796639486==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============5150183809796639486==--
+"
+phishing_51,Congratulations! You've Won $1000,winner@secure-bank.tk,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============2338250237508714135==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@secure-bank.tk
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:36 
+Message-ID: <554891.311082@example.com>
+
+--===============2338250237508714135==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============2338250237508714135==--
+"
+phishing_52,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4880499001625647070==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:36 
+Message-ID: <877985.430052@example.com>
+
+--===============4880499001625647070==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4880499001625647070==--
+"
+phishing_53,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5531435903614438159==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Fri, 01 Aug 2025 09:06:36 
+Message-ID: <393419.936424@example.com>
+
+--===============5531435903614438159==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5531435903614438159==--
+"
+phishing_54,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0737362541518013339==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:36 
+Message-ID: <187979.407094@example.com>
+
+--===============0737362541518013339==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0737362541518013339==--
+"
+phishing_55,Congratulations! You've Won $1000,winner@update-info.ga,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============3308310684997977352==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@update-info.ga
+To: user@example.com
+Date: Mon, 04 Aug 2025 09:06:36 
+Message-ID: <691253.756857@example.com>
+
+--===============3308310684997977352==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============3308310684997977352==--
+"
+phishing_56,Payment Failed - Action Required,billing@confirm-payment.cf,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============0937572681078974788==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@confirm-payment.cf
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <892703.893441@example.com>
+
+--===============0937572681078974788==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============0937572681078974788==--
+"
+phishing_57,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5741690818257331893==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <669426.155355@example.com>
+
+--===============5741690818257331893==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5741690818257331893==--
+"
+phishing_58,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============7882877194024749477==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:36 
+Message-ID: <385245.661993@example.com>
+
+--===============7882877194024749477==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============7882877194024749477==--
+"
+phishing_59,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============1646172183120532436==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <590545.172392@example.com>
+
+--===============1646172183120532436==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============1646172183120532436==--
+"
+phishing_60,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============6980840476424305576==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Tue, 05 Aug 2025 09:06:36 
+Message-ID: <821930.811970@example.com>
+
+--===============6980840476424305576==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============6980840476424305576==--
+"
+phishing_61,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0683267704890137111==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <478027.114912@example.com>
+
+--===============0683267704890137111==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0683267704890137111==--
+"
+phishing_62,Payment Failed - Action Required,billing@confirm-payment.cf,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============4623972605758935240==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@confirm-payment.cf
+To: user@example.com
+Date: Sat, 09 Aug 2025 09:06:36 
+Message-ID: <318291.432315@example.com>
+
+--===============4623972605758935240==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============4623972605758935240==--
+"
+phishing_63,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============4978263430676942371==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:36 
+Message-ID: <419934.123145@example.com>
+
+--===============4978263430676942371==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============4978263430676942371==--
+"
+phishing_64,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============7730779683152438412==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Thu, 07 Aug 2025 09:06:36 
+Message-ID: <639128.184926@example.com>
+
+--===============7730779683152438412==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============7730779683152438412==--
+"
+phishing_65,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============6727482126781796913==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <774889.492429@example.com>
+
+--===============6727482126781796913==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============6727482126781796913==--
+"
+phishing_66,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============7967499820179239336==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:36 
+Message-ID: <650783.616577@example.com>
+
+--===============7967499820179239336==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============7967499820179239336==--
+"
+phishing_67,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============9154781967560791001==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <943121.587455@example.com>
+
+--===============9154781967560791001==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://fake-bank.ml/verify
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============9154781967560791001==--
+"
+phishing_68,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5975295039451917995==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <115497.293477@example.com>
+
+--===============5975295039451917995==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5975295039451917995==--
+"
+phishing_69,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============7304938267359817671==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <285118.610242@example.com>
+
+--===============7304938267359817671==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============7304938267359817671==--
+"
+phishing_70,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0159928593579465338==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <459586.934674@example.com>
+
+--===============0159928593579465338==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0159928593579465338==--
+"
+phishing_71,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============3014690249912257736==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Sat, 09 Aug 2025 09:06:36 
+Message-ID: <948291.581894@example.com>
+
+--===============3014690249912257736==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============3014690249912257736==--
+"
+phishing_72,Congratulations! You've Won $1000,winner@update-info.ga,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============9130874589374386761==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@update-info.ga
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <243292.313180@example.com>
+
+--===============9130874589374386761==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============9130874589374386761==--
+"
+phishing_73,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5840515486107324310==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:36 
+Message-ID: <958987.722657@example.com>
+
+--===============5840515486107324310==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5840515486107324310==--
+"
+phishing_74,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5183254007564863351==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <108005.191737@example.com>
+
+--===============5183254007564863351==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://fake-bank.ml/verify
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5183254007564863351==--
+"
+phishing_75,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0954666433405021642==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <851517.126608@example.com>
+
+--===============0954666433405021642==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0954666433405021642==--
+"
+phishing_76,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============0042586910031783166==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:36 
+Message-ID: <124779.128743@example.com>
+
+--===============0042586910031783166==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============0042586910031783166==--
+"
+phishing_77,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============5129783631065184308==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Fri, 08 Aug 2025 09:06:36 
+Message-ID: <696815.379906@example.com>
+
+--===============5129783631065184308==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============5129783631065184308==--
+"
+phishing_78,Congratulations! You've Won $1000,winner@update-info.ga,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============1880611573030869058==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@update-info.ga
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <193825.771178@example.com>
+
+--===============1880611573030869058==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============1880611573030869058==--
+"
+phishing_79,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============8121534689931233202==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Wed, 30 Jul 2025 09:06:36 
+Message-ID: <242063.365861@example.com>
+
+--===============8121534689931233202==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============8121534689931233202==--
+"
+phishing_80,Urgent: Your Account Will Be Suspended,security@confirm-payment.cf,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============8198382404665843262==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@confirm-payment.cf
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <967616.275509@example.com>
+
+--===============8198382404665843262==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============8198382404665843262==--
+"
+phishing_81,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============6419214472227551300==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <620095.133164@example.com>
+
+--===============6419214472227551300==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============6419214472227551300==--
+"
+phishing_82,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============2457605895245931484==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Sat, 09 Aug 2025 09:06:36 
+Message-ID: <311822.516031@example.com>
+
+--===============2457605895245931484==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============2457605895245931484==--
+"
+phishing_83,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4256247512793357549==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Thu, 31 Jul 2025 09:06:36 
+Message-ID: <599820.208798@example.com>
+
+--===============4256247512793357549==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4256247512793357549==--
+"
+phishing_84,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============6264326040564828973==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:36 
+Message-ID: <922187.745390@example.com>
+
+--===============6264326040564828973==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============6264326040564828973==--
+"
+phishing_85,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============4920415855687639158==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Mon, 04 Aug 2025 09:06:36 
+Message-ID: <164033.560930@example.com>
+
+--===============4920415855687639158==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============4920415855687639158==--
+"
+phishing_86,Payment Failed - Action Required,billing@secure-bank.tk,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============2471337500549910945==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@secure-bank.tk
+To: user@example.com
+Date: Thu, 24 Jul 2025 09:06:36 
+Message-ID: <685765.847766@example.com>
+
+--===============2471337500549910945==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============2471337500549910945==--
+"
+phishing_87,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============1944903119665939486==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <961246.901724@example.com>
+
+--===============1944903119665939486==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============1944903119665939486==--
+"
+phishing_88,Payment Failed - Action Required,billing@update-info.ga,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============1349780472963955535==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@update-info.ga
+To: user@example.com
+Date: Mon, 21 Jul 2025 09:06:36 
+Message-ID: <321062.976554@example.com>
+
+--===============1349780472963955535==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============1349780472963955535==--
+"
+phishing_89,Urgent: Your Account Will Be Suspended,security@secure-bank.tk,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============1723661425778037324==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@secure-bank.tk
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <661573.397577@example.com>
+
+--===============1723661425778037324==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============1723661425778037324==--
+"
+phishing_90,Congratulations! You've Won $1000,winner@confirm-payment.cf,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============2493345428617970399==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:36 
+Message-ID: <381698.428124@example.com>
+
+--===============2493345428617970399==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============2493345428617970399==--
+"
+phishing_91,Urgent: Your Account Will Be Suspended,security@verify-account.ml,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============1610008532162384826==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@verify-account.ml
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <769843.412981@example.com>
+
+--===============1610008532162384826==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://malicious-site.tk/login
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============1610008532162384826==--
+"
+phishing_92,Urgent: Your Account Will Be Suspended,security@update-info.ga,"Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team",1,"Content-Type: multipart/mixed; boundary=""===============2359352576858979200==""
+MIME-Version: 1.0
+Subject: Urgent: Your Account Will Be Suspended
+From: security@update-info.ga
+To: user@example.com
+Date: Wed, 06 Aug 2025 09:06:36 
+Message-ID: <227921.190679@example.com>
+
+--===============2359352576858979200==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+                
+Your account security has been compromised. Click here immediately to verify your account:
+http://scam-site.ga/update
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Best regards,
+Security Team
+--===============2359352576858979200==--
+"
+phishing_93,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============4647240923098363391==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <309756.734247@example.com>
+
+--===============4647240923098363391==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============4647240923098363391==--
+"
+phishing_94,Congratulations! You've Won $1000,winner@update-info.ga,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============7865797368330611952==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@update-info.ga
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:36 
+Message-ID: <628711.477771@example.com>
+
+--===============7865797368330611952==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============7865797368330611952==--
+"
+phishing_95,Payment Failed - Action Required,billing@update-info.ga,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============2949512850571483497==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@update-info.ga
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:36 
+Message-ID: <590899.459468@example.com>
+
+--===============2949512850571483497==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============2949512850571483497==--
+"
+phishing_96,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============6704591830642860691==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Mon, 21 Jul 2025 09:06:36 
+Message-ID: <985460.254565@example.com>
+
+--===============6704591830642860691==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============6704591830642860691==--
+"
+phishing_97,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============1813159433480946362==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <358563.654125@example.com>
+
+--===============1813159433480946362==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://fake-bank.ml/verify
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============1813159433480946362==--
+"
+phishing_98,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============6069557437794264107==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <458084.766938@example.com>
+
+--===============6069557437794264107==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============6069557437794264107==--
+"
+phishing_99,Payment Failed - Action Required,billing@verify-account.ml,"Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department",1,"Content-Type: multipart/mixed; boundary=""===============0452364827537188261==""
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@verify-account.ml
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <537710.173138@example.com>
+
+--===============0452364827537188261==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://scam-site.ga/update
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============0452364827537188261==--
+"
+phishing_100,Congratulations! You've Won $1000,winner@verify-account.ml,"Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission",1,"Content-Type: multipart/mixed; boundary=""===============0694352673580857640==""
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@verify-account.ml
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <613543.183804@example.com>
+
+--===============0694352673580857640==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://scam-site.ga/update
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============0694352673580857640==--
+"
+legitimate_1,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6248798396209412976==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <420405.660599@example.com>
+
+--===============6248798396209412976==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6248798396209412976==--
+"
+legitimate_2,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============1460680451969934400==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <446058.145215@example.com>
+
+--===============1460680451969934400==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============1460680451969934400==--
+"
+legitimate_3,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============3987257548128655995==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:36 
+Message-ID: <735348.101049@example.com>
+
+--===============3987257548128655995==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============3987257548128655995==--
+"
+legitimate_4,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============8806307541584022212==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:36 
+Message-ID: <117294.465802@example.com>
+
+--===============8806307541584022212==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============8806307541584022212==--
+"
+legitimate_5,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============3591499046515660656==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 03 Aug 2025 09:06:36 
+Message-ID: <120383.709515@example.com>
+
+--===============3591499046515660656==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============3591499046515660656==--
+"
+legitimate_6,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4594156928984769192==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <608065.264684@example.com>
+
+--===============4594156928984769192==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4594156928984769192==--
+"
+legitimate_7,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============1345489103709815985==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Fri, 01 Aug 2025 09:06:36 
+Message-ID: <686409.316189@example.com>
+
+--===============1345489103709815985==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============1345489103709815985==--
+"
+legitimate_8,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============3585399053987573372==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sat, 19 Jul 2025 09:06:36 
+Message-ID: <601406.939165@example.com>
+
+--===============3585399053987573372==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============3585399053987573372==--
+"
+legitimate_9,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============6185732339512440436==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <933271.881304@example.com>
+
+--===============6185732339512440436==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============6185732339512440436==--
+"
+legitimate_10,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============8150724993710559185==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Wed, 30 Jul 2025 09:06:36 
+Message-ID: <380916.824726@example.com>
+
+--===============8150724993710559185==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============8150724993710559185==--
+"
+legitimate_11,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============4289515725027806719==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <985184.262498@example.com>
+
+--===============4289515725027806719==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============4289515725027806719==--
+"
+legitimate_12,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============0927211798232853686==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <846473.801973@example.com>
+
+--===============0927211798232853686==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============0927211798232853686==--
+"
+legitimate_13,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============6530146447949225685==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Mon, 21 Jul 2025 09:06:36 
+Message-ID: <382825.708145@example.com>
+
+--===============6530146447949225685==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============6530146447949225685==--
+"
+legitimate_14,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============1436566905191443924==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 31 Jul 2025 09:06:36 
+Message-ID: <863342.811532@example.com>
+
+--===============1436566905191443924==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============1436566905191443924==--
+"
+legitimate_15,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4730865489052619166==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:36 
+Message-ID: <341937.249578@example.com>
+
+--===============4730865489052619166==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4730865489052619166==--
+"
+legitimate_16,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============5153794815676499936==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <928223.462037@example.com>
+
+--===============5153794815676499936==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============5153794815676499936==--
+"
+legitimate_17,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============1414995601383514155==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 07 Aug 2025 09:06:36 
+Message-ID: <635418.875551@example.com>
+
+--===============1414995601383514155==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============1414995601383514155==--
+"
+legitimate_18,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============8868833721904024098==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:36 
+Message-ID: <125054.537510@example.com>
+
+--===============8868833721904024098==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============8868833721904024098==--
+"
+legitimate_19,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6523294070125267262==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <410720.856116@example.com>
+
+--===============6523294070125267262==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6523294070125267262==--
+"
+legitimate_20,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============4113788045424826785==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:36 
+Message-ID: <226218.871795@example.com>
+
+--===============4113788045424826785==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============4113788045424826785==--
+"
+legitimate_21,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============6888334035443068690==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 06 Aug 2025 09:06:36 
+Message-ID: <473710.958679@example.com>
+
+--===============6888334035443068690==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============6888334035443068690==--
+"
+legitimate_22,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4597106604945314147==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Fri, 01 Aug 2025 09:06:36 
+Message-ID: <820706.585203@example.com>
+
+--===============4597106604945314147==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4597106604945314147==--
+"
+legitimate_23,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6888821797911929570==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <134660.640590@example.com>
+
+--===============6888821797911929570==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6888821797911929570==--
+"
+legitimate_24,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7349130209798647714==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:36 
+Message-ID: <869745.385671@example.com>
+
+--===============7349130209798647714==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7349130209798647714==--
+"
+legitimate_25,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============3013784403993045221==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 05 Aug 2025 09:06:36 
+Message-ID: <307568.206892@example.com>
+
+--===============3013784403993045221==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============3013784403993045221==--
+"
+legitimate_26,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============7850132710028565388==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 05 Aug 2025 09:06:36 
+Message-ID: <945025.246881@example.com>
+
+--===============7850132710028565388==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============7850132710028565388==--
+"
+legitimate_27,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0786009452507768662==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:36 
+Message-ID: <635958.995007@example.com>
+
+--===============0786009452507768662==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0786009452507768662==--
+"
+legitimate_28,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============9217323565236041940==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <844358.933538@example.com>
+
+--===============9217323565236041940==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============9217323565236041940==--
+"
+legitimate_29,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4009899981484786253==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:36 
+Message-ID: <820419.436168@example.com>
+
+--===============4009899981484786253==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4009899981484786253==--
+"
+legitimate_30,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7083009047323434143==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:36 
+Message-ID: <111173.430442@example.com>
+
+--===============7083009047323434143==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7083009047323434143==--
+"
+legitimate_31,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2072357066050575682==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <563221.620215@example.com>
+
+--===============2072357066050575682==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2072357066050575682==--
+"
+legitimate_32,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============1017911713469683619==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Fri, 18 Jul 2025 09:06:36 
+Message-ID: <528317.985393@example.com>
+
+--===============1017911713469683619==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============1017911713469683619==--
+"
+legitimate_33,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6405851894971352555==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:36 
+Message-ID: <644362.705443@example.com>
+
+--===============6405851894971352555==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6405851894971352555==--
+"
+legitimate_34,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============5189799513360704309==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 23 Jul 2025 09:06:36 
+Message-ID: <746961.313688@example.com>
+
+--===============5189799513360704309==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============5189799513360704309==--
+"
+legitimate_35,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============6453232503263293268==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:36 
+Message-ID: <830765.392585@example.com>
+
+--===============6453232503263293268==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============6453232503263293268==--
+"
+legitimate_36,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============1049997226200617348==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:36 
+Message-ID: <805575.906192@example.com>
+
+--===============1049997226200617348==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============1049997226200617348==--
+"
+legitimate_37,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7584688183658976322==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Fri, 08 Aug 2025 09:06:36 
+Message-ID: <809704.326382@example.com>
+
+--===============7584688183658976322==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7584688183658976322==--
+"
+legitimate_38,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============4856073311344469548==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 31 Jul 2025 09:06:36 
+Message-ID: <578070.669301@example.com>
+
+--===============4856073311344469548==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============4856073311344469548==--
+"
+legitimate_39,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6212808134429576119==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:36 
+Message-ID: <252116.285163@example.com>
+
+--===============6212808134429576119==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6212808134429576119==--
+"
+legitimate_40,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============5553056226106477472==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:36 
+Message-ID: <378649.104145@example.com>
+
+--===============5553056226106477472==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============5553056226106477472==--
+"
+legitimate_41,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============7981832715237604170==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:36 
+Message-ID: <647010.602707@example.com>
+
+--===============7981832715237604170==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============7981832715237604170==--
+"
+legitimate_42,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============0989593181113957194==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Mon, 04 Aug 2025 09:06:36 
+Message-ID: <751472.561230@example.com>
+
+--===============0989593181113957194==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============0989593181113957194==--
+"
+legitimate_43,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============8137742444802386398==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 29 Jul 2025 09:06:36 
+Message-ID: <983313.526560@example.com>
+
+--===============8137742444802386398==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============8137742444802386398==--
+"
+legitimate_44,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2748150241541476301==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:37 
+Message-ID: <584161.691394@example.com>
+
+--===============2748150241541476301==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2748150241541476301==--
+"
+legitimate_45,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============2832382063060975683==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 30 Jul 2025 09:06:37 
+Message-ID: <861196.959157@example.com>
+
+--===============2832382063060975683==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============2832382063060975683==--
+"
+legitimate_46,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============2935812304660873518==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:37 
+Message-ID: <952446.359285@example.com>
+
+--===============2935812304660873518==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============2935812304660873518==--
+"
+legitimate_47,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4598393147360638447==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 13 Jul 2025 09:06:37 
+Message-ID: <570284.397671@example.com>
+
+--===============4598393147360638447==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4598393147360638447==--
+"
+legitimate_48,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6447112495105148656==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:37 
+Message-ID: <700182.315003@example.com>
+
+--===============6447112495105148656==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6447112495105148656==--
+"
+legitimate_49,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============8190143746701245735==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 06 Aug 2025 09:06:37 
+Message-ID: <329686.314845@example.com>
+
+--===============8190143746701245735==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============8190143746701245735==--
+"
+legitimate_50,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7766681569047387501==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Fri, 01 Aug 2025 09:06:37 
+Message-ID: <366462.621195@example.com>
+
+--===============7766681569047387501==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7766681569047387501==--
+"
+legitimate_51,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============5699186981819446990==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:37 
+Message-ID: <791438.130727@example.com>
+
+--===============5699186981819446990==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============5699186981819446990==--
+"
+legitimate_52,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============6219446062414484564==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 30 Jul 2025 09:06:37 
+Message-ID: <932724.245181@example.com>
+
+--===============6219446062414484564==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============6219446062414484564==--
+"
+legitimate_53,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7380028035933569019==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 03 Aug 2025 09:06:37 
+Message-ID: <611140.764630@example.com>
+
+--===============7380028035933569019==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7380028035933569019==--
+"
+legitimate_54,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7821022712027432660==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 31 Jul 2025 09:06:37 
+Message-ID: <289539.214562@example.com>
+
+--===============7821022712027432660==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7821022712027432660==--
+"
+legitimate_55,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0161418586104481664==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:37 
+Message-ID: <641212.979883@example.com>
+
+--===============0161418586104481664==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0161418586104481664==--
+"
+legitimate_56,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============8766311245687238240==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:37 
+Message-ID: <724172.186849@example.com>
+
+--===============8766311245687238240==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============8766311245687238240==--
+"
+legitimate_57,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============5925512451847415297==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Mon, 21 Jul 2025 09:06:37 
+Message-ID: <383542.518362@example.com>
+
+--===============5925512451847415297==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============5925512451847415297==--
+"
+legitimate_58,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2903998304835431823==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:37 
+Message-ID: <440299.927097@example.com>
+
+--===============2903998304835431823==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2903998304835431823==--
+"
+legitimate_59,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6452196747873447533==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:37 
+Message-ID: <110309.982117@example.com>
+
+--===============6452196747873447533==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6452196747873447533==--
+"
+legitimate_60,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0030602924102817620==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 07 Aug 2025 09:06:37 
+Message-ID: <134204.412414@example.com>
+
+--===============0030602924102817620==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0030602924102817620==--
+"
+legitimate_61,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============8125647661667879384==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:37 
+Message-ID: <615647.453096@example.com>
+
+--===============8125647661667879384==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============8125647661667879384==--
+"
+legitimate_62,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============3784751501497005838==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 06 Aug 2025 09:06:37 
+Message-ID: <872840.464888@example.com>
+
+--===============3784751501497005838==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============3784751501497005838==--
+"
+legitimate_63,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0823141449435257864==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:37 
+Message-ID: <560947.231326@example.com>
+
+--===============0823141449435257864==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0823141449435257864==--
+"
+legitimate_64,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0685932191836899965==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:37 
+Message-ID: <965512.366193@example.com>
+
+--===============0685932191836899965==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0685932191836899965==--
+"
+legitimate_65,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============5849422686616358549==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 23 Jul 2025 09:06:37 
+Message-ID: <377562.616840@example.com>
+
+--===============5849422686616358549==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============5849422686616358549==--
+"
+legitimate_66,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2613171362031265622==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 27 Jul 2025 09:06:37 
+Message-ID: <620620.463202@example.com>
+
+--===============2613171362031265622==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2613171362031265622==--
+"
+legitimate_67,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4889261229817290927==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:37 
+Message-ID: <930487.930025@example.com>
+
+--===============4889261229817290927==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4889261229817290927==--
+"
+legitimate_68,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============3423656886593650018==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Mon, 14 Jul 2025 09:06:37 
+Message-ID: <186214.898510@example.com>
+
+--===============3423656886593650018==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============3423656886593650018==--
+"
+legitimate_69,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6381929568100257815==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 24 Jul 2025 09:06:37 
+Message-ID: <762138.343900@example.com>
+
+--===============6381929568100257815==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6381929568100257815==--
+"
+legitimate_70,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============7171867121824395548==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 15 Jul 2025 09:06:37 
+Message-ID: <556978.253925@example.com>
+
+--===============7171867121824395548==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============7171867121824395548==--
+"
+legitimate_71,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============8314141215083201509==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:37 
+Message-ID: <182328.704338@example.com>
+
+--===============8314141215083201509==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============8314141215083201509==--
+"
+legitimate_72,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============1494515558610203967==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:37 
+Message-ID: <678129.895445@example.com>
+
+--===============1494515558610203967==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============1494515558610203967==--
+"
+legitimate_73,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============0596678873965006245==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:37 
+Message-ID: <186826.252071@example.com>
+
+--===============0596678873965006245==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============0596678873965006245==--
+"
+legitimate_74,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============7585210567364711186==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 03 Aug 2025 09:06:37 
+Message-ID: <181799.696730@example.com>
+
+--===============7585210567364711186==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============7585210567364711186==--
+"
+legitimate_75,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============7180574488704471920==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:37 
+Message-ID: <212867.490564@example.com>
+
+--===============7180574488704471920==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============7180574488704471920==--
+"
+legitimate_76,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============9146025339565888721==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Fri, 18 Jul 2025 09:06:37 
+Message-ID: <308127.684711@example.com>
+
+--===============9146025339565888721==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============9146025339565888721==--
+"
+legitimate_77,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============3515606570331601875==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Wed, 16 Jul 2025 09:06:37 
+Message-ID: <286121.291955@example.com>
+
+--===============3515606570331601875==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============3515606570331601875==--
+"
+legitimate_78,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============8421093062510659205==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:37 
+Message-ID: <975112.492364@example.com>
+
+--===============8421093062510659205==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============8421093062510659205==--
+"
+legitimate_79,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0485389800338630799==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Mon, 28 Jul 2025 09:06:37 
+Message-ID: <868051.334496@example.com>
+
+--===============0485389800338630799==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0485389800338630799==--
+"
+legitimate_80,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============3825916422229924274==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:37 
+Message-ID: <392008.426063@example.com>
+
+--===============3825916422229924274==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============3825916422229924274==--
+"
+legitimate_81,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2170012706179670693==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Fri, 08 Aug 2025 09:06:37 
+Message-ID: <582086.715118@example.com>
+
+--===============2170012706179670693==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2170012706179670693==--
+"
+legitimate_82,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2752503128960245342==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 24 Jul 2025 09:06:37 
+Message-ID: <854572.949927@example.com>
+
+--===============2752503128960245342==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2752503128960245342==--
+"
+legitimate_83,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============7736059202965125501==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Mon, 21 Jul 2025 09:06:37 
+Message-ID: <459616.382091@example.com>
+
+--===============7736059202965125501==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============7736059202965125501==--
+"
+legitimate_84,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============3794609686212492466==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Tue, 05 Aug 2025 09:06:37 
+Message-ID: <546156.605855@example.com>
+
+--===============3794609686212492466==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============3794609686212492466==--
+"
+legitimate_85,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4490872225578419108==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 10 Aug 2025 09:06:37 
+Message-ID: <996056.773919@example.com>
+
+--===============4490872225578419108==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4490872225578419108==--
+"
+legitimate_86,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============1739348687824264795==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Fri, 18 Jul 2025 09:06:37 
+Message-ID: <338763.529646@example.com>
+
+--===============1739348687824264795==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============1739348687824264795==--
+"
+legitimate_87,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4796580338226398463==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:37 
+Message-ID: <779539.170321@example.com>
+
+--===============4796580338226398463==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4796580338226398463==--
+"
+legitimate_88,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============6512392045908847034==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Tue, 22 Jul 2025 09:06:37 
+Message-ID: <825597.361805@example.com>
+
+--===============6512392045908847034==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============6512392045908847034==--
+"
+legitimate_89,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============0156292085557737445==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:37 
+Message-ID: <488026.250031@example.com>
+
+--===============0156292085557737445==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============0156292085557737445==--
+"
+legitimate_90,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4564583926571214637==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:37 
+Message-ID: <610951.161851@example.com>
+
+--===============4564583926571214637==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4564583926571214637==--
+"
+legitimate_91,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============6869283741904095178==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 03 Aug 2025 09:06:37 
+Message-ID: <379077.324734@example.com>
+
+--===============6869283741904095178==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============6869283741904095178==--
+"
+legitimate_92,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============7485110221704525668==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 12 Jul 2025 09:06:37 
+Message-ID: <411653.603783@example.com>
+
+--===============7485110221704525668==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============7485110221704525668==--
+"
+legitimate_93,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============3203917203014847083==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Thu, 17 Jul 2025 09:06:37 
+Message-ID: <332633.914791@example.com>
+
+--===============3203917203014847083==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============3203917203014847083==--
+"
+legitimate_94,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============8140700218547601240==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 02 Aug 2025 09:06:37 
+Message-ID: <867464.715203@example.com>
+
+--===============8140700218547601240==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============8140700218547601240==--
+"
+legitimate_95,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============3522711635864870067==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 26 Jul 2025 09:06:37 
+Message-ID: <766893.723896@example.com>
+
+--===============3522711635864870067==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============3522711635864870067==--
+"
+legitimate_96,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============5901229466078497282==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 07 Aug 2025 09:06:37 
+Message-ID: <209005.492653@example.com>
+
+--===============5901229466078497282==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============5901229466078497282==--
+"
+legitimate_97,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============2982751971206408574==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sat, 19 Jul 2025 09:06:37 
+Message-ID: <407028.551636@example.com>
+
+--===============2982751971206408574==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============2982751971206408574==--
+"
+legitimate_98,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============5459706464809516048==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 03 Aug 2025 09:06:37 
+Message-ID: <768709.150105@example.com>
+
+--===============5459706464809516048==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============5459706464809516048==--
+"
+legitimate_99,Your Order Confirmation #12345,orders@legitstore.com,"Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team",0,"Content-Type: multipart/mixed; boundary=""===============0400956580416441862==""
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Sun, 20 Jul 2025 09:06:37 
+Message-ID: <274480.576910@example.com>
+
+--===============0400956580416441862==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0400956580416441862==--
+"
+legitimate_100,Weekly Newsletter - Tech Updates,newsletter@techcompany.com,"This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company",0,"Content-Type: multipart/mixed; boundary=""===============4500169680309649721==""
+MIME-Version: 1.0
+Subject: Weekly Newsletter - Tech Updates
+From: newsletter@techcompany.com
+To: user@example.com
+Date: Sun, 03 Aug 2025 09:06:37 
+Message-ID: <141163.719233@example.com>
+
+--===============4500169680309649721==
+Content-Type: text/plain; charset=""us-ascii""
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This Week in Tech
+
+- New smartphone releases
+- Software updates
+- Industry news
+
+Read more: https://techcompany.com/newsletter
+
+Unsubscribe: https://techcompany.com/unsubscribe
+
+Tech Company
+--===============4500169680309649721==--
+"

@@ -1,0 +1,23 @@
+Content-Type: multipart/mixed; boundary="===============1238206582983744307=="
+MIME-Version: 1.0
+Subject: Payment Failed - Action Required
+From: billing@update-info.ga
+To: user@example.com
+Date: Fri, 25 Jul 2025 09:06:36 
+Message-ID: <469545.601874@example.com>
+
+--===============1238206582983744307==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your recent payment has failed. Please update your payment information:
+http://malicious-site.tk/login
+
+Your account will be suspended if not updated within 48 hours.
+
+Thanks,
+Billing Department
+--===============1238206582983744307==--

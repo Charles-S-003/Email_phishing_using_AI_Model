@@ -1,0 +1,17 @@
+# Configuration file for the AI Phishing Detection System
+
+data:
+  raw_data_path: "data/raw/"
+  processed_data_path: "data/processed/"
+
+features:
+  use_tfidf: true
+  max_features: 1000
+
+models:
+  random_state: 42
+  model_type: "lightgbm"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

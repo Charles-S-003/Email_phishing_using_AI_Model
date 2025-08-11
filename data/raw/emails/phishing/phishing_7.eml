@@ -1,0 +1,22 @@
+Content-Type: multipart/mixed; boundary="===============6114989697298599941=="
+MIME-Version: 1.0
+Subject: Congratulations! You've Won $1000
+From: winner@confirm-payment.cf
+To: user@example.com
+Date: Sat, 09 Aug 2025 09:06:36 
+Message-ID: <110673.378583@example.com>
+
+--===============6114989697298599941==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Congratulations!
+
+You have been selected to receive $1000! Click here to claim:
+http://malicious-site.tk/login
+
+This offer expires in 24 hours.
+
+Lottery Commission
+--===============6114989697298599941==--

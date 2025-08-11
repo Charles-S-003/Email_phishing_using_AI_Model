@@ -1,0 +1,24 @@
+Content-Type: multipart/mixed; boundary="===============0030602924102817620=="
+MIME-Version: 1.0
+Subject: Your Order Confirmation #12345
+From: orders@legitstore.com
+To: user@example.com
+Date: Thu, 07 Aug 2025 09:06:37 
+Message-ID: <134204.412414@example.com>
+
+--===============0030602924102817620==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Thank you for your order!
+
+Order Details:
+- Item: Product Name
+- Total: $99.99
+- Shipping: 3-5 business days
+
+Track your order: https://legitstore.com/track/12345
+
+Customer Service Team
+--===============0030602924102817620==--
